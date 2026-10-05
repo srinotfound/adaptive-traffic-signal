@@ -64,4 +64,12 @@ Tkinter is included with most standard Python installations.
 Clone the repository:
 
 ```bash
-git clone https://github.com/srinotfound/adaptive-traffic-signal.git
+git clone https://github.com/srinotfound/adaptive-traffic-signal.
+
+🎓 Project Type
+
+Academic Project — B.Tech Electronics and Communication Engineering
+
+Software Simulation / Processor-Based Control
+
+
