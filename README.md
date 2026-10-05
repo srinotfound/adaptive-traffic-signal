@@ -6,21 +6,21 @@ A Python-based software simulation of an adaptive traffic signal system using pr
 
 This project simulates an intelligent four-way traffic signal controller for North, South, East and West roads.
 
-The system analyzes traffic density, predicts upcoming traffic conditions and selects the appropriate signal timing using processor-based decision logic.
+The system analyzes traffic density, predicts upcoming traffic conditions and selects appropriate signal timing using processor-based decision logic.
 
 ## ⚙️ Features
 
-- 🚦 Four-way traffic signal simulation
-- 📊 Traffic density input registers
-- 🤖 Automatic traffic analysis
-- 🔮 Traffic density prediction
-- 🧠 Processor-based signal decision logic
-- ⏱️ Adaptive green-light timing
-- 🎛️ Manual timing control
-- 🔄 Next-signal timing override
-- 📈 Real-time traffic intelligence
-- 🟢 Dynamic signal selection
-- 🖥️ Interactive Tkinter GUI
+- Four-way traffic signal simulation
+- Traffic density input registers
+- Automatic traffic analysis
+- Traffic density prediction
+- Processor-based signal decision logic
+- Adaptive green-light timing
+- Manual timing control
+- Next-signal timing override
+- Real-time traffic intelligence
+- Dynamic signal selection
+- Interactive Tkinter GUI
 
 ## 🛠️ Technologies Used
 
@@ -31,8 +31,6 @@ The system analyzes traffic density, predicts upcoming traffic conditions and se
 - Predictive traffic-density analysis
 
 ## 🧠 Working Principle
-
-The system follows this basic processing flow:
 
 Traffic Input  
 ↓  
@@ -52,19 +50,11 @@ Traffic Signal Output
 
 ## 🚀 How to Run
 
-### Requirements
+1. Install Python 3.x.
+2. Download this repository.
+3. Open the project folder.
+4. Run:
 
-- Python 3.x
-- Tkinter
-
-Tkinter is included with most standard Python installations.
-
-### Run the Project
-
-Clone the repository:
-
-```bash
-git clone https://github.com/srinotfound/adaptive-traffic-signal.
 
 🎓 Project Type
 
@@ -72,4 +62,6 @@ Academic Project — B.Tech Electronics and Communication Engineering
 
 Software Simulation / Processor-Based Control
 
+```text
+python adaptive_traffic_signal.py
 
